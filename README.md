@@ -1,2 +1,19 @@
-# Rheumatoid-Arthritis-Analysis
-Differential Expression Genes Analysis on the Rheumatoid Arthritis for the course of Bioinformatics held by professor Giulia Fiscon during the Academic Year 2022/23.
+# Differential Expression Genes (DEGs) Analysis in Rheumatoid Arthritis
+
+This repository presents the results of a differential expression analysis of genes in the context of Rheumatoid Arthritis (RA). The analysis was conducted as part of the Bioinformatics course led by Professor Giulia Fiscon during the Academic Year 2022/23 at Sapienza University, during the Master's in Engineering in Computer Science.
+
+## Objective
+The main objective of this analysis was to identify genes that exhibit differential expression in patients with rheumatoid arthritis compared to healthy individuals. By detecting these differentially expressed genes, we aimed to gain insights into the molecular mechanisms underlying the pathogenesis of RA and potentially identify novel targets for therapeutic interventions.
+
+## Methodology
+
+The analysis was performed on publicly available gene expression GEOQuery dataset [GSE93272](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE93272) related to Rheumatoid Arthritis. Differential expression analysis was carried out using the R language along with appropriate statistical methods to compare the expression levels of genes between RA samples and healthy controls. The significance of differential expression was determined based on statistical metrics such as p-values, fold changes, and adjusted p-values.
+It was also conducted a Principal Component Analysis, a Functional Enrichment Analysis and a miRNA analysis. Finally, a Literature-based research was carried on. All of the details can be found in this [document](https://github.com/francesco-fortunato/Rheumatoid-Arthritis-Analysis/blob/main/doc/Bioinformatics_Fortunato_Francesco_1848527.pdf).
+
+## Results
+
+The analysis revealed a set of genes that exhibited significant differential expression in the context of rheumatoid arthritis. These genes were found to be associated with various biological processes and pathways relevant to RA pathogenesis, including immune system regulation, inflammation, and tissue remodeling.
+
+## Conclusions
+
+The identified differentially expressed genes provide valuable insights into the molecular alterations occurring in rheumatoid arthritis. By understanding the dysregulated genes and their associated pathways, researchers can develop a deeper understanding of the disease and potentially identify novel therapeutic targets. The identification of differentially expressed genes opens up avenues for further research and targeted investigations into the mechanisms driving the pathogenesis of RA. The insights gained from this analysis have the potential to improve the diagnosis, treatment, and management of rheumatoid arthritis, ultimately benefiting patients and advancing the field of rheumatology.
