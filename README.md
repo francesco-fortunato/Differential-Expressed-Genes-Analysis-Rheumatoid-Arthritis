@@ -8,7 +8,7 @@ The main objective of this analysis was to identify genes that exhibit different
 ## Methodology
 
 The analysis was performed on publicly available gene expression GEOQuery dataset [GSE93272](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE93272) related to Rheumatoid Arthritis. Differential expression analysis was carried out using the R language along with appropriate statistical methods to compare the expression levels of genes between RA samples and healthy controls. The significance of differential expression was determined based on statistical metrics such as p-values, fold changes, and adjusted p-values.
-It was also conducted a Principal Component Analysis, a Functional Enrichment Analysis and a miRNA analysis. Finally, a Literature-based research was carried on. All of the details can be found in this [document](https://github.com/francesco-fortunato/Rheumatoid-Arthritis-Analysis/blob/main/doc/Bioinformatics_Fortunato_Francesco_1848527.pdf).
+It was also conducted a Principal Component Analysis, a Functional Enrichment Analysis and a miRNA analysis. Finally, a Literature-based research was carried on. All of the details can be found in this [document](https://github.com/francesco-fortunato/Differential-Expressed-Genes-Analysis-Rheumatoid-Arthritis/blob/main/doc/Bioinformatics_Fortunato_Francesco_1848527.pdf).
 
 ## Results
 
